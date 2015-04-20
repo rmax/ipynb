@@ -5,3 +5,5 @@ iPython Notebooks
 * [Graficando la solución de un sistema diferencial](http://nbviewer.ipython.org/github/darkrho/ipynb/blob/master/000-graficando-sistema-diferencial.ipynb)
 * [Graficando una superficie](http://nbviewer.ipython.org/github/darkrho/ipynb/blob/master/000-graficando-una-superficie.ipynb)
 * [Programación lineal y cuadrática con CVXOPT](http://nbviewer.ipython.org/github/darkrho/ipynb/blob/master/000-programacion-lineal-y-cuadratica-con-cvxopt.ipynb)
+
+* [Levenshtein Algorithm in Cython: An Optimization Walkthrough](http://nbviewer.ipython.org/github/darkrho/ipynb/blob/master/cython-levenshtein.ipynb)
